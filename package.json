@@ -1,0 +1,17 @@
+{
+  "name": "huge-data-example",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "blastz",
+  "license": "MIT",
+  "dependencies": {
+    "@blastz/nico": "^0.19.1",
+    "mysql2": "^2.2.5",
+    "reflect-metadata": "^0.1.13",
+    "typeorm": "^0.2.32"
+  }
+}
